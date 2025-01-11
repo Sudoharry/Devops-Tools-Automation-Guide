@@ -1,5 +1,10 @@
 # DevOps Tool Installation and Uninstallation Guide Using Shell Scripting
 
+---
+  ![image](https://github.com/user-attachments/assets/e96ea68f-facb-4203-a348-5d40d0dd4a8d)
+
+---
+
 This guide provides shell scripts for automating the installation and uninstallation of various DevOps tools.
 
 By using these scripts, you can save valuable time by easily installing all necessary files in seconds.
